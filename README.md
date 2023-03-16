@@ -1,2 +1,5 @@
 # Hello-World-GitHub
-workshop6
+
+Hello, I'm Changran XU!
+
+My student number is 1155157197.
